@@ -1,0 +1,142 @@
+[
+    {
+        "DramaName":"unlocked",
+        "Genres":["Thriller","crime","Mystery"],
+        "ReleaseDate":"Feb 17 2023",
+        "CoverImage":"https://upload.wikimedia.org/wikipedia/en/3/3f/Unlocked_%282023_film%29_poster.jpg"
+    }
+,
+    {
+        "DramaName":"Island",
+        "Genres":["Thriller","Action","Horror"],
+        "ReleaseDate":"Feb 24 2023",
+        "CoverImage":"https://image.kpopmap.com/2021/09/Island-3.jpg"
+    }
+    ,
+    {
+        "DramaName":"Tomorrow",
+        "Genres":"Fantasy",
+        "ReleaseDate":"May 21 2022",
+        "CoverImage":"https://asianwiki.com/images/f/fa/Tomorrow_Korean_Drama-p1.jpg"
+    }
+    ,
+    {
+        "DramaName":"Sweet Home",
+        "Genres":["Thriller","Action","Horror"],
+        "ReleaseDate":"Dec 18 2020",
+        "CoverImage":"https://upload.wikimedia.org/wikipedia/en/1/1e/Sweet_Home_TV_series.jpg"
+    }
+    ,
+    {
+        "DramaName":"Hellbound",
+        "Genres":["Thriller","Dark fantasy"],
+        "ReleaseDate":"Nov 19 2021",
+        "CoverImage":"https://upload.wikimedia.org/wikipedia/en/a/a0/Hellbound_TV_series.jpg"
+    }
+    ,
+    {
+        "DramaName":"Squid Game",
+        "Genres":["Thriller","Action","Survival"],
+        "ReleaseDate":"Sep 17 2021",
+        "CoverImage":"https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"
+    }
+    ,
+    {
+        "DramaName":"Money Heist",
+        "Genres":["Heist","crime"],
+        "ReleaseDate":"June 24 2022",
+        "CoverImage":"https://i.mydramalist.com/EzEB5_4f.jpg"
+    }
+    ,
+    {
+        "DramaName":"Vincenzo",
+        "Genres":["crime","Dark comedy"],
+        "ReleaseDate":"May 2 2021",
+        "CoverImage":"https://upload.wikimedia.org/wikipedia/en/5/5b/Vincenzo_TV_series.jpg"
+    }
+    ,
+    {
+        "DramaName":"Big Mouth",
+        "Genres":["Noir","Legal drama","crime"],
+        "ReleaseDate":"Sept 17 2022",
+        "CoverImage":"https://upload.wikimedia.org/wikipedia/en/b/bb/Big_Mouth_%28South_Korean_TV_series%29.jpg"
+    }
+    ,
+    {
+        "DramaName":"The K2",
+        "Genres":[" political Thriller","Action","Melodrama"],
+        "ReleaseDate":"Sept 23 2016",
+        "CoverImage":"https://m.media-amazon.com/images/M/MV5BMGI1MDIzNTItMzg1ZS00MmFkLWFlZDEtYmVmZWVkMDZkM2U3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    }
+    ,
+    {
+        "DramaName":"Healer",
+        "Genres":["Thriller","Action","comedy"],
+        "ReleaseDate":"Dec 8 2014",
+        "CoverImage":"https://i.scdn.co/image/ab67616d0000b273a187ca0ff30c73b4cf07953e"
+    }
+    ,
+    {
+        "DramaName":"Vagabond",
+        "Genres":[" Thriller","Action","Spy"],
+        "ReleaseDate":"Nov 23 2019",
+        "CoverImage":"https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Vagabond_2019.jpg/250px-Vagabond_2019.jpg"
+    }
+    ,
+    {
+        "DramaName":"Mouse",
+        "Genres":["Thriller","Suspense","Science fiction"],
+        "ReleaseDate":"May 20 2021",
+        "CoverImage":"https://i.mydramalist.com/XNeKO_4f.jpg"
+    }
+    ,
+    {
+        "DramaName":"Voice",
+        "Genres":[" Thriller","Procedural"],
+        "ReleaseDate":"March 12 2017",
+        "CoverImage":"https://asianwiki.com/images/a/ae/Voice_%28Korean_Drama%29-p1.jpg"
+    }
+    ,
+    {
+        "DramaName":"Abyss",
+        "Genres":["Thriller","Fantasy","crime"],
+        "ReleaseDate":"June 25 2019",
+        "CoverImage":"https://upload.wikimedia.org/wikipedia/en/d/dd/Abyss_TV_series.jpg"
+    }
+    ,
+    {
+        "DramaName":"Hotel Del Luna",
+        "Genres":"fantasy",
+        "ReleaseDate":"Sept 1 2019",
+        "CoverImage":"https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg"
+    }
+    ,
+    {
+        "DramaName":"Alchemy of Souls",
+        "Genres":[" Fantasy ","Sageuk","Action"],
+        "ReleaseDate":"Jan 8 2023",
+        "CoverImage":"https://m.media-amazon.com/images/M/MV5BZGU1ODJmM2UtNDk0OS00MWIyLWJlNjItMDU3MTU2ZmYxNTM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
+    }
+    ,{
+        "DramaName":"Little Women",
+        "Genres":"Mystery",
+        "ReleaseDate":"Oct 9 2022",
+        "CoverImage":"https://upload.wikimedia.org/wikipedia/en/6/66/Little_Women_%282022_TV_series%29.jpg"
+    }
+    ,
+    {
+        "DramaName":"Start Up",
+        "Genres":[" slice of life","Romantic comedy"],
+        "ReleaseDate":"Dec 6 2020",
+        "CoverImage":"https://m.media-amazon.com/images/M/MV5BZGEzMjMxNmItYWM2MC00MGU3LTk2YmQtYjUyOTVjYTRlZDQ3XkEyXkFqcGdeQXVyNDU4MDQ0MjM@._V1_.jpg"
+    }
+    ,
+    {
+        "DramaName":"Itaewon class",
+        "Genres":"Melodrama",
+        "ReleaseDate":"Jan 31 2020",
+        "CoverImage":"https://www.koreanbapsang.com/wp-content/uploads/2021/07/Blank-977-x-1463-9.jpg"
+    }
+
+
+]

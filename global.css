@@ -1,0 +1,24 @@
+.childBlock{
+    border: 2px solid black;
+    /* width: 3000px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.parentBlock{
+    width: 4000px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+
+
